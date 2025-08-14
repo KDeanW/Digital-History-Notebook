@@ -118,7 +118,7 @@ Be sure to answer the questions above as well.
 
 
 # The Rise of the Internet
-  - ARPNET, created February, 1966, by ARPA.\
-  - TCP/IP, created in the early 1970's, by DARPA.\
+  - ARPNET, created February, 1966, by ARPA.
+  - TCP/IP, created in the early 1970's, by DARPA.
   - WWW, created in 1889, by Tim Berners-Lee.
   - 
