@@ -118,9 +118,9 @@ Be sure to answer the questions above as well.
 
 
 # The Rise of the Internet
-  - The Williams tube, created in 1948, was the first practical form of RAM, and stored data using charged spots on the face of a cathode-ray tube. ![jpg](250px-Williams_tube.agr.jpg)
+  - The Williams tube, created in 1948, was the first practical form of RAM, and stored data using charged spots on the face of a cathode-ray tube.\ ![jpg](250px-Williams_tube.agr.jpg)
   - The first hard drive, the Model 350 disk storage unit, created by IBM in 1956, as part of the IBM 305 RAMAC system.
-  - The first commercialy available computer IBM 305 RAMAC (Random Access Method of Accounting and Control). It's production running from 1956-61.
+  - The first commercialy available computer IBM 305 RAMAC (Random Access Method of Accounting and Control). It's production running from 1956-61.\ ![jpg](1956_RAMAC_P1.jpg)
   - WWW, created in 1889, by Tim Berners-Lee.
   - ARPNET, created February, 1966, by ARPA.
   - TCP/IP, created in the early 1970's, by DARPA.
