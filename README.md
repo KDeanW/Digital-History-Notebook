@@ -26,9 +26,9 @@ Use git commit -m "Added pioneers Ada and Alan" to save these changes to your lo
 Finally, use git push to publish your work to GitHub.
 Report Status:
 2.1: What two file names did you create?
-Answer:
+Answer: "ada-lovelace.md" and "alan-turing.md"
 2.2: What was your commit message?
-Answer:
+Answer:added ada and alan.
 Assignment 3: A Timeline of the Internet
 To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
 Instructions:
@@ -83,7 +83,7 @@ Use git push to publish this final piece of research.
 Report Status:
 6.1: What was your commit message for this assignment?
 Answer:
-6.2: What command did you use to publish your work?
+?.l,k6.2: What command did you use to publish your work?
 Answer:
 Assignment 7: Final Edits
 As a final step, you realize your notebook could use a concluding thought. You will add this directly on GitHub.
@@ -114,7 +114,9 @@ When you have completed all assignments and answered all of the "Report Status" 
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
-
+# Hyperlinks
+  - [Ada Lovelace](/ada-lovelace.md)
+  - [Alan Turing](/alan-turing.md)
 
 
 # The Rise of the Internet
